@@ -2,6 +2,10 @@
 
 Entregable clase 15
 
+# Comandos y resultados de la consigna en archivo:
+
+LEER Comandos y Resultados.md
+
 ## Instalar dependencias
 
 npm install
